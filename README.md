@@ -29,3 +29,9 @@
 </div>
 
 -----
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mohaddeseh-karimi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohaddeseh-karimi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohaddeseh-karimi&theme=dark&hide_border=true&layout=compact)
