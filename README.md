@@ -34,4 +34,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mohaddeseh-karimi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohaddeseh-karimi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohaddeseh-karimi&theme=dark&hide_border=true&layout=compact)
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-davevad93s-projects.vercel.app/api/top-langs?username=mohaddeseh-karimi&show_icons=true&locale=en&layout=compact&langs_count=16&title_color=00FF2B&text_color=00FF2B&border_color=00FF2B&theme=chartreuse-dark" alt="davevad93" width=460 /></a>
